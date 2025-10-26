@@ -1,1 +1,3 @@
 # research
+
+[Journal](./journal.md)

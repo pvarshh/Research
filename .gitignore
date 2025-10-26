@@ -4,3 +4,4 @@ assignment-1/data/EchoNet-Dynamic.zip
 
 # macOS system files
 .DS_Store
+.vscode

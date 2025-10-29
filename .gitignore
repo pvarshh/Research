@@ -6,6 +6,13 @@ assignment-1/data/EchoNet-Dynamic.zip
 assignment-1/data
 assignment-1/model/output/
 assignment-1/model/build/
+assignment-1/.ipynb_checkpoints/
+assignment-1/__pycache__/
+assignment-1/*.swp
+assignment-1/echonet.cfg
+assignment-1/.echonet.cfg
+assignment-1/*.pyc
+assignment-1/echonet.egg-info/
 
 # macOS system files
 .DS_Store

@@ -4,15 +4,17 @@ assignment-1/data/EchoNet-Dynamic.zip
 
 # Model output files (too large for GitHub)
 assignment-1/data
-assignment-1/model/output/
+assignment-1/model/docs
+assignment-1/model/output/segmentation/deeplabv3_resnet50_random/best.pt
+assignment-1/model/output/segmentation/deeplabv3_resnet50_random/checkpoint.pt
 assignment-1/model/build/
 assignment-1/.ipynb_checkpoints/
 assignment-1/__pycache__/
 assignment-1/*.swp
-assignment-1/echonet.cfg
-assignment-1/.echonet.cfg
+assignment-1/model/echonet.cfg
+assignment-1/model/.echonet.cfg
 assignment-1/*.pyc
-assignment-1/echonet.egg-info/
+assignment-1/model/echonet.egg-info/
 
 # macOS system files
 .DS_Store

@@ -1,11 +1,17 @@
 # Video-based AI for beat-to-beat assessment of cardiac function
 
 
-### Questions 
-Why are we using Dice similarity ... what are the benefits and how is it applicable? 
-> answer 
+### My Summary
 
 
+
+### Notes
+
+Weakly Supervised Learning (in this context)
+- 
+
+Dice Similarity
+- 
 
 
 ### Vocab

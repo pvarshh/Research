@@ -3,6 +3,7 @@ assignment-1/data/*.csv
 assignment-1/data/EchoNet-Dynamic.zip
 
 # Model output files (too large for GitHub)
+assignment-1/data
 assignment-1/model/output/
 
 # macOS system files
